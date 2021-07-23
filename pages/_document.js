@@ -8,8 +8,8 @@ class MyDocument extends Document {
 
   render() {
     const meta = {
-      title: 'Expose faizasaqlain',
-      description: 'Expose this established company that preys on people in need of Pakistani luxury fashion',
+      title: 'Faiza Saqlain',
+      description: "Expose Faiza Saqlain's horrible customer services",
       image:
         'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
     }
