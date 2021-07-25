@@ -28,6 +28,7 @@ class MyDocument extends Document {
           <meta name="twitter:title" content={meta.title} />
           <meta name="twitter:description" content={meta.description} />
           <meta name="twitter:image" content={meta.image} />
+          <meta name="google-site-verification" content="eaojFo_HsGi4Gt9IMqZ2oJ_dHjU9zllFO-wBuRWM4Dc" />
         </Head>
         <body>
           <Main />
